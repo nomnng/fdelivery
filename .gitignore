@@ -1,0 +1,10 @@
+# Node
+server/node_modules/
+server/.env
+server/public
+server/*.db
+
+# React
+client/node_modules/
+client/build/
+client/.env
